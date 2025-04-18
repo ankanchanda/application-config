@@ -1,3 +1,3 @@
-/application/default
-/application/dev
-/application/prod
+- /application/default
+- /application/dev
+- /application/prod
